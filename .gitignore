@@ -1,2 +1,5 @@
+# Sensitive information
 sftp-config.json
 
+# Large files
+data/
